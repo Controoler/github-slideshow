@@ -2,5 +2,5 @@
 layous: slide
 title: "Welcome to our second slide!"
 ---
-I'm Brazilian 
+I love to play osu.
 Use the arrow to go back!
